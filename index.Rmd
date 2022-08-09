@@ -1,7 +1,8 @@
 ---
-title: "Social Capital"
-date: "2022-08-02"
-output: html_document
+title: "Economic Connectedness"
+description: |
+  Welcome to the website. I hope you enjoy it!
+site: distill::distill_website
 ---
 
 ```{r setup, include=FALSE}
@@ -52,8 +53,3 @@ ec |>
 
 
 ```
-
-
-
-
-
